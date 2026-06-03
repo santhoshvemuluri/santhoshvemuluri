@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hi, I'm VEMULURI SAI DURGA SANTHOSH KUMAR</h1>
+  <h1>Hi, I'm SANTHOSH VEMULURI</h1>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I am an aspiring Data Analyst and engineering student based in Kakinada, equipped with hands-on experience in uncovering actionable business insights and building scalable infrastructure. When I am not bridging the gap between data interpretation and real-time hardware solutions, you can find me analyzing Nifty 50 charts for 1-minute scalping setups, maintaining my high-protein fitness routine, or wrenching on my Yamaha FZ-S V2.
+I am an aspiring Data Analyst and engineering student based in Kakinada, equipped with hands-on experience in uncovering actionable business insights and building scalable infrastructure. When I am not bridging the gap between data interpretation and real-time hardware solutions, you can find me analyzing Nifty 50 charts for 1-minute scalping setups, maintaining my high-protein fitness routine.
 
 - 🎓 Currently pursuing my B.Tech at **Pragati Engineering College** (Expected 2028).
 - 💼 Working as a **Data Analyst Intern at Deloitte**, focusing on structural data trends and optimizing reporting workflows.
