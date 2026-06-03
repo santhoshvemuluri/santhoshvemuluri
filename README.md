@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hi, I'm SANTHOSH VEMULURI</h1>
+  <h1>Hi, I'm VEMULURI SAI DURGA SANTHOSH KUMAR</h1>
 </div>
 
 <div align="center">
@@ -29,6 +29,7 @@ I am an aspiring Data Analyst and engineering student based in Kakinada, equippe
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </div>
@@ -50,19 +51,27 @@ I am an aspiring Data Analyst and engineering student based in Kakinada, equippe
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshVemuluri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshVemuluri&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/SanthoshVemuluri">
+    <img src="https://github-readme-stats.vercel.app/api?username=SanthoshVemuluri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SanthoshVemuluri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshVemuluri&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanthoshVemuluri&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/SanthoshVemuluri">
+    <img src="https://github-profile-trophy.vercel.app/?username=SanthoshVemuluri&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
