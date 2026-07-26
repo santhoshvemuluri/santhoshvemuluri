@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hi, I'm VEMULURI SAI DURGA SANTHOSH KUMAR</h1>
+  <h1>Hi, I'm SANTHOSH VEMULURI </h1>
 </div>
 
 <div align="center">
